@@ -61,9 +61,11 @@ print("Hoje estou ${if(bomHumor) "Feliz" else "chateado"}")
 }
 
 
-    package funfdamnetos
+    package fundamnetos
     fun main(args:Array<String>){
 var a:Int = 33.dec()
 var b:String = a.toString()
 println("Int: $a")
 println("Primeiro char da string b é ")
+
+
